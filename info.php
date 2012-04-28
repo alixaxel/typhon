@@ -1,5 +1,5 @@
 <?php
 
-phpinfo();
+date(DATE_COOKIE); phpinfo();
 
 ?>
